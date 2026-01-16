@@ -1,6 +1,5 @@
 # 💫 About Me:
-Aquired my initial experience in Software Engineering working in the FinTech industry.<br>Some of my recently interacted TechStack are HTML, CSS, ReactJS, NodeJS, NextJS, Express, JavaScript, TypeScript, Java, JUnit4, MongoDB, C++, Python etc.<br>Highest degree earned in B.Tech in Computer Science & Engineering from Vellore Institute of Technology.<br>Currently pursuing my Master’s in Computer Science at Khoury College at Northeastern University, Boston.<br>## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1998-anurag-bg)
+Aquired my initial experience in Software Engineering working in the FinTech industry.<br>Some of my recently interacted TechStack are HTML, CSS, ReactJS, NodeJS, NextJS, Express, JavaScript, TypeScript, Java, JUnit4, MongoDB, C++, Python etc.<br>Highest degree earned in B.Tech in Computer Science & Engineering from Vellore Institute of Technology.<br>Currently pursuing my Master’s in Computer Science at Khoury College at Northeastern University, Boston.
 
 
 ## 🌐 Socials:
