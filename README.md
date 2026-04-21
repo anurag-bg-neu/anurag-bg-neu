@@ -1,14 +1,9 @@
 # Hey👋! I’m Anurag
 
-Software engineer with 5+ years of industry experience at Bank of America (Hybrid environment). Currently pursuing MS in Computer Science at Northeastern University (Khoury College, 3.83 GPA) in Boston, MA. 
-Graduate Teaching Assistant for Full-Stack Web Development reviewing code work for students in React, Node.js, and modern web architecture.
-
+Software engineer with 5+ years of industry experience at Bank of America. Currently pursuing MS in Computer Science at Northeastern University (Khoury College) in Boston, MA.
 Tech stack I’ve  worked with includes C++, Python, TypeScript, React, Next.js, Node.js, Redux, FastAPI, Docker, MongoDB, SQL Oracle Fusion Cloud ERP and more.
 My interests span across full-stack development, AI/ML, Data Structures, distributed systems and expanding my technical horizons further with responsible use of Gen AI/LLM tools to aid my work.
-
 On a personal level, I'm driven by curiosity and a desire to learn and build things that scale. Every project/challenge I take on, every problem I solve, and every individual that I mentor or be mentored by, helps me understand making decisions and identify patterns better. If presented with an opportunity, I would love to contribute to something that can positively impact many lives in the real world
-
-Targeting SDE internships for Summer 2026 & Full time roles (SDE / Full-stack) for 2027 (expected to grad May 2027)
 Open to connecting!  Cheers 🌟!
 
 ## 🌐 My Socials:
