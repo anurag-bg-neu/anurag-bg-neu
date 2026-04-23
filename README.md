@@ -5,7 +5,7 @@ Tech stack I’ve  worked with includes C++, Python, TypeScript, React, Next.js,
 My interests span across full-stack development, AI/ML, Data Structures, distributed systems and expanding my technical horizons further with responsible use of Gen AI/LLM tools to aid my work.
 On a personal level, I'm driven by curiosity and a desire to learn and build things that scale. Every project/challenge I take on, every problem I solve, and every individual that I mentor or be mentored by, helps me understand making decisions and identify patterns better. If presented with an opportunity, I would love to contribute to something that can positively impact people's lives in the real world
 
-Open to connecting!  Cheers🌟
+Open to connecting!   Cheers🌟
 
 ## 🌐 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1998-anurag-bg) [![Google Developer Program](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white)](https://developers.google.com/profile/u/anuragbg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bheemappagnanamurt.a@northeastern.edu)
