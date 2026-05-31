@@ -16,7 +16,9 @@ Open to connecting!   Cheers🌟
 
 
 # 📊 Contribution Metrics:
-
+<p align="left">
+  <img src="./profile/stats.svg" />
+</p>
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=anurag-bg-neu&theme=tokyonight&hide_border=true" />
 </p>
