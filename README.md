@@ -19,9 +19,9 @@ Open to connecting!   Cheers🌟
 <!-- <p align="left">
   <img src="./profile/stats.svg" />
 </p> -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://streak-stats.demolab.com?user=anurag-bg-neu&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag-bg-neu&theme=react-dark&hide_border=false&area=true&color=79d7f7&line=79d7f7&point=ffffff&custom_title=Anurag's%20Contribution%20Heartbeat&radius=16" />
 </p>
