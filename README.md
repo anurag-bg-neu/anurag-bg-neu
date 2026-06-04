@@ -8,7 +8,7 @@ On a personal level, I'm driven by curiosity and a desire to learn and build thi
 
 Open to connecting!   Cheers🌟
 
-## 🌐 My Socials:
+# 🌐 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1998-anurag-bg) [![Google Developer Program](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white)](https://developers.google.com/profile/u/anuragbg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bheemappagnanamurt.a@northeastern.edu)
 
 # 💻 Tech Stack:
