@@ -1,5 +1,5 @@
 # Hey👋! I’m Anurag 
-[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-ff69b4?style=flat-square&logo=github)](https://github.com/openclaw/openclaw) [![PR #76693](https://img.shields.io/badge/PR-%2376693-green?style=flat-square&logo=github)](https://github.com/openclaw/openclaw/pull/76693) 
+[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-ff69b4?style=flat-square&logo=github)](https://github.com/openclaw/openclaw)
 
 
 Software engineer with 5+ years of industry experience. Pursuing my MS in Computer Science at Northeastern University (Khoury College) in Boston, MA.
