@@ -28,7 +28,7 @@ Open to connecting, Cheers!🌟
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag-bg-neu&theme=react-dark&hide_border=false&area=true&color=79d7f7&line=79d7f7&point=ffffff&custom_title=Anurag's%20Contribution%20Heartbeat&radius=16" />
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anurag-bg-neu&color=blue&style=flat-square&label=Profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=anurag-bg-neu&color=blue&label=Profile+views" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
