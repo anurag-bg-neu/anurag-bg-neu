@@ -4,11 +4,11 @@
 
 **Software Engineer · 5+ YOE · MSCS @ Northeastern (Khoury College), Boston, MA.**
 
-Backend & distributed systems · Full-stack · Cloud · Applied AI/ML
+*Backend & distributed systems · Full-stack · Cloud · Applied AI/ML*
 
 I build systems that ship — and I care about the path from a hard problem to a release real people use. Driven by curiosity, scale, and work with real-world impact.
 
-🦞 [OpenClaw.ai](https://openclaw.ai)  — Shipped a 🔐 security fix to  production release [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) — open-source, merged & released · [PR #76693](https://github.com/openclaw/openclaw/pull/76693)
+🦞 [OpenClaw.ai](https://openclaw.ai)  — Shipped a 🔐 security fix to  production release [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) · ([PR #76693](https://github.com/openclaw/openclaw/pull/76693))
 
 Open to connecting, Cheers!🌟
 
