@@ -2,7 +2,7 @@
 
 [![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?labelColor=FFFFFF)](https://github.com/openclaw/openclaw) [![Stars](https://img.shields.io/github/stars/openclaw/openclaw?logo=github&label=stars)](https://github.com/openclaw/openclaw)
 
-Software Engineer · 5+ YOE · MSCS @ Northeastern (Khoury College), Boston, MA
+**Software Engineer · 5+ YOE · MSCS @ Northeastern (Khoury College), Boston, MA.**
 
 Backend & distributed systems · Full-stack · Cloud · Applied AI/ML
 
