@@ -1,5 +1,5 @@
 # Hey👋! I’m Anurag 
-[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?logoColor=white)](https://github.com/openclaw/openclaw) ![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?logoColor=white)](https://github.com/openclaw/openclaw) ![Stars](https://img.shields.io/github/stars/openclaw/openclaw?logo=github&label=Stars)
 
 
 
