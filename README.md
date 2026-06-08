@@ -5,7 +5,7 @@
 
 Software engineer with 5+ years of industry experience. Pursuing my MSCS at Northeastern (Khoury College), Boston, MA.
 Tech stack I’ve worked with includes C++, Python, TypeScript, React, Next.js, Node.js, Redux, FastAPI, Docker, MongoDB, SQL Oracle Fusion Cloud ERP and many more.
-My interests span across full-stack development, AI/ML, data structures, distributed systems and expanding my technical horizons further with responsible use of Gen AI/LLM tools to aid my daily workflow. On a personal level, I'm driven by curiosity and a desire to learn and build things that scale. Every project/challenge I take on, every problem I solve, and every individual that I mentor or be mentored by, helps me understand making decisions and identify patterns better. If presented with an opportunity, I would love to contribute to something that can positively impact people's lives in the real world
+My interests span across full-stack development, AI/ML, data structures, distributed systems and expanding my technical horizons further with responsible use of Gen AI/LLM tools to aid my daily workflow. On a personal level, I'm driven by curiosity and a desire to learn and build things that scale. Every project/challenge I take on, every problem I solve, and every individual that I mentor or be mentored by, helps me understand making decisions and identify patterns better. If presented with an opportunity, I would love to contribute to something that can positively impact people's lives in the real world!
 
 🦞 [OpenClaw.ai](https://openclaw.ai) — Recently shipped a security fix to production release [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) · [PR #76693](https://github.com/openclaw/openclaw/pull/76693)
 
