@@ -10,7 +10,7 @@ Building systems that ship — and I care about the path from a concept to reali
 
 Open to connecting, Cheers!🌟
 
-## Currently Contributing
+## 🚀 Currently Contributing
 
 🦞 [OpenClaw.ai](https://openclaw.ai)  — Shipped a 🔐 security fix to  production release [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) · ([PR #76693](https://github.com/openclaw/openclaw/pull/76693))
 
