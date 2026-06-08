@@ -1,4 +1,4 @@
-# Hey👋! I’m Anurag
+# Hey👋! I’m Anurag [![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-ff69b4?style=flat-square&logo=github)](https://github.com/openclaw/openclaw) [![PR #76693](https://img.shields.io/badge/PR-%2376693-green?style=flat-square&logo=github)](https://github.com/openclaw/openclaw/pull/76693)
 
 Software engineer with 5+ years of industry experience. Pursuing my MS in Computer Science at Northeastern University (Khoury College) in Boston, MA.
 Tech stack I’ve  worked with includes C++, Python, TypeScript, React, Next.js, Node.js, Redux, FastAPI, Docker, MongoDB, SQL Oracle Fusion Cloud ERP and more.
