@@ -1,12 +1,13 @@
 # Hey👋! I’m Anurag 
-[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-ff69b4?style=flat-square&logo=github)](https://github.com/openclaw/openclaw) ![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?style=flat-square&logo=github&logoColor=white)](https://github.com/openclaw/openclaw) ![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+
 
 
 Software engineer with 5+ years of industry experience. Pursuing my MS in Computer Science at Northeastern University (Khoury College) in Boston, MA.
 Tech stack I’ve  worked with includes C++, Python, TypeScript, React, Next.js, Node.js, Redux, FastAPI, Docker, MongoDB, SQL Oracle Fusion Cloud ERP and many more.
 My interests span across full-stack development, AI/ML, Data Structures, distributed systems and expanding my technical horizons further with responsible use of Gen AI/LLM tools to aid my work. On a personal level, I'm driven by curiosity and a desire to learn and build things that scale. Every project/challenge I take on, every problem I solve, and every individual that I mentor or be mentored by, helps me understand making decisions and identify patterns better. If presented with an opportunity, I would love to contribute to something that can positively impact people's lives in the real world
 
-🦞 [OpenClaw](https://github.com/openclaw/openclaw) — Recently shipped a security fix to production release [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) · [PR #76693](https://github.com/openclaw/openclaw/pull/76693)
+🦞 [OpenClaw.ai](https://openclaw.ai) — Recently shipped a security fix to production release [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) · [PR #76693](https://github.com/openclaw/openclaw/pull/76693)
 
 
 Open to connecting, Cheers!🌟
