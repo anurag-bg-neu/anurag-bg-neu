@@ -8,7 +8,7 @@
   <div>Building systems that ship — and I care about the path from a concept to reality. Driven by curiosity, scale, and work with real-world impact.</div>
 </p>
 <p>
-  Open to connecting, Cheers!🌟
+  Open to connecting! Cheers🌟
 </p>
 
 ## 🚀 Currently Contributing
