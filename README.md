@@ -13,7 +13,7 @@
 
 ## 🚀 Recent Contributions
 
-🦞 [OpenClaw.ai](https://openclaw.ai) — Shipped security hardenings 🔐 (Merged in production release):
+🦞 [OpenClaw.ai](https://openclaw.ai) — Shipped security hardenings 🔐 (merged in production release):
 - [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) announcement · [PR #76693](https://github.com/openclaw/openclaw/pull/76693)
 - Incoming version update · [PR #91059](https://github.com/openclaw/openclaw/pull/91059)
 
