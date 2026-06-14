@@ -32,10 +32,13 @@
   <img src="./profile/stats.svg" />
 </p> -->
 <!-- <p align="left">
+2EA043 - success green
+9F51FA - dark purple
+46D976 - bright green
   <img src="https://streak-stats.demolab.com?user=anurag-bg-neu&theme=tokyonight&hide_border=true" />
 </p> -->
 
-![Anurag's Contribution Heartbeat](https://github-readme-activity-graph.vercel.app/graph?username=anurag-bg-neu&theme=react-dark&hide_border=false&area=true&color=9F51FA&line=9F51FA&point=ffffff&custom_title=Anurag's%20Contribution%20Heartbeat&radius=16)
+![Anurag's Contribution Heartbeat](https://github-readme-activity-graph.vercel.app/graph?username=anurag-bg-neu&theme=react-dark&hide_border=false&area=true&color=46D976&line=9F51FA&point=ffffff&custom_title=Anurag's%20Contribution%20Heartbeat&radius=16)
 
 ![Profile views](https://komarev.com/ghpvc/?username=anurag-bg-neu&color=blue&label=Profile+views)
 
