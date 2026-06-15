@@ -1,6 +1,6 @@
 # Hey👋! I’m Anurag
 
-[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?labelColor=FFFFFF)](https://github.com/openclaw/openclaw) [![Stars](https://img.shields.io/github/stars/openclaw/openclaw)](https://github.com/openclaw/openclaw)
+[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?labelColor=FFFFFF)](https://github.com/openclaw/openclaw) (390k+ stars)
 
 <p>
   <div><b>Software Engineer · 5+ years of experience · MSCS @ Northeastern (Khoury College), Boston, MA.</b></div>
@@ -37,7 +37,7 @@
 46D976 - bright green
   <img src="https://streak-stats.demolab.com?user=anurag-bg-neu&theme=tokyonight&hide_border=true" />
 </p> -->
-
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=anurag-bg-neu&theme=dark)](https://git.io/streak-stats) -->
 ![Anurag's Contribution Heartbeat](https://github-readme-activity-graph.vercel.app/graph?username=anurag-bg-neu&theme=react-dark&hide_border=false&area=true&color=46D976&line=9F51FA&point=ffffff&custom_title=Anurag's%20Contribution%20Heartbeat&radius=16)
 
 ![Profile views](https://komarev.com/ghpvc/?username=anurag-bg-neu&color=blue&label=Profile+views)
