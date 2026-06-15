@@ -17,9 +17,9 @@
 - [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) announcement · [PR #76693](https://github.com/openclaw/openclaw/pull/76693)
 - Incoming version update · [PR #91059](https://github.com/openclaw/openclaw/pull/91059)
 
-
 ## 📬 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1998-anurag-bg) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/anuragVD) [![Google Developer Program](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white)](https://developers.google.com/profile/u/anuragbg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bheemappagnanamurt.a@northeastern.edu)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anurag--bg-00A8FF?style=plastic&logo=linkedin&logoColor=00A8FF&labelColor=0A0A0A)](https://www.linkedin.com/in/anurag-bg) [![LeetCode](https://img.shields.io/badge/LeetCode-anuragVD-FFA116?style=plastic&logo=leetcode&logoColor=FFD700&labelColor=0A0A0A)](https://leetcode.com/u/anuragVD/) [![Google Developer](https://img.shields.io/badge/Google%20Developer-anuragbg-00E676?style=plastic&logo=google&logoColor=00E676&labelColor=0A0A0A)](https://developers.google.com/profile/u/anuragbg) [![Email](https://img.shields.io/badge/Email-northeastern.edu-FF3D00?style=plastic&logo=gmail&logoColor=FF3D00&labelColor=0A0A0A)](mailto:bheemappagnanamurt.a@northeastern.edu)
 
 ## 💻 Tech Stack
 
