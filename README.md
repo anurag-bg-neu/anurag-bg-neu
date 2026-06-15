@@ -1,6 +1,6 @@
 # Hey👋! I’m Anurag
 
-[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?labelColor=FFFFFF)](https://github.com/openclaw/openclaw) [![Stars](https://img.shields.io/github/stars/openclaw/openclaw?logo=github&label=Stars)](https://github.com/openclaw/openclaw)
+[![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?labelColor=FFFFFF)](https://github.com/openclaw/openclaw) [![Stars](https://img.shields.io/github/stars/openclaw/openclaw)](https://github.com/openclaw/openclaw)
 
 <p>
   <div><b>Software Engineer · 5+ years of experience · MSCS @ Northeastern (Khoury College), Boston, MA.</b></div>
@@ -20,7 +20,7 @@
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1998-anurag-bg) [![Google Developer Program](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white)](https://developers.google.com/profile/u/anuragbg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bheemappagnanamurt.a@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1998-anurag-bg) [![Google Developer Program](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/anuragbg) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bheemappagnanamurt.a@northeastern.edu)
 
 ## 💻 Tech Stack
 
