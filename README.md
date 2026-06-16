@@ -21,15 +21,7 @@
 
 ## 📬 Connect
 
-<p>
-<a href="https://www.linkedin.com/in/anurag-bg"><img height="35" src="https://img.shields.io/badge/LinkedIn-anurag--bg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00A8FF&labelColor=FFFFFF"/></a>
-&nbsp;
-<a href="https://leetcode.com/u/anuragVD/"><img height="35" src="https://img.shields.io/badge/LeetCode-anuragVD-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=272822"/></a>
-&nbsp;
-<a href="https://developers.google.com/profile/u/anuragbg"><img height="35" src="https://img.shields.io/badge/Google%20Developer-anuragbg-34A853?style=for-the-badge&logo=google&logoColor=F9AB00&labelColor=4285F4"/></a>
-&nbsp;
-<a href="mailto:bheemappagnanamurt.a@northeastern.edu"><img height="35" src="https://img.shields.io/badge/Email-northeastern.edu-FF3D00?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anurag--bg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00A8FF&labelColor=FFFFFF)](https://www.linkedin.com/in/anurag-bg) [![LeetCode](https://img.shields.io/badge/LeetCode-anuragVD-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=272822)](https://leetcode.com/u/anuragVD/) [![Google Developer](https://img.shields.io/badge/Google%20Developer-anuragbg-34A853?style=for-the-badge&logo=google&logoColor=F9AB00&labelColor=4285F4)](https://developers.google.com/profile/u/anuragbg) [![Email](https://img.shields.io/badge/Email-northeastern.edu-FF3D00?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF)](mailto:bheemappagnanamurt.a@northeastern.edu)
 
 ## 💻 Tech Stack
 
