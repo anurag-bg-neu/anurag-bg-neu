@@ -16,7 +16,7 @@
 🦞 [OpenClaw.ai](https://openclaw.ai) — Shipped security hardenings 🔐 (merged in production releases):
 - [v2026.6.9](https://github.com/openclaw/openclaw/releases/tag/v2026.6.9) announcement · [PR #90893](https://github.com/openclaw/openclaw/pull/90893)
 - [v2026.6.9](https://github.com/openclaw/openclaw/releases/tag/v2026.6.9) announcement · [PR #90571](https://github.com/openclaw/openclaw/pull/90571)
-- Incoming version update · [PR #91059](https://github.com/openclaw/openclaw/pull/91059)
+- [v2026.6.8](https://github.com/openclaw/openclaw/releases/tag/v2026.6.8) announcement · [PR #91059](https://github.com/openclaw/openclaw/pull/91059)
 - [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) announcement · [PR #76693](https://github.com/openclaw/openclaw/pull/76693)
 
 ## 📬 Connect
