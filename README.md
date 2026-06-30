@@ -21,7 +21,7 @@
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anurag--bg-0A66C2?style=plastic&logo=linkedin&logoColor=00A8FF&labelColor=FFFFFF)](https://www.linkedin.com/in/anurag-bg) &nbsp;[![Email](https://img.shields.io/badge/Email-FF3D00?style=plastic&logo=gmail&logoColor=EA4335&labelColor=FFFFFF)](mailto:bheemappagnanamurt.a@northeastern.edu) &nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=FFD700&labelColor=272822)](https://leetcode.com/u/anurag-bg/) &nbsp;[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=plastic&logo=google&logoColor=EA4335&labelColor=FFFFFF)](https://me.developers.google.com/u/anuragbg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anurag--bg-0A66C2?style=plastic&logo=linkedin&logoColor=00A8FF&labelColor=FFFFFF)](https://www.linkedin.com/in/anurag-bg) &nbsp;[![Email](https://img.shields.io/badge/Email-FF3D00?style=plastic&logo=gmail&logoColor=EA4335&labelColor=FFFFFF)](mailto:bheemappagnanamurt.a@northeastern.edu) &nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=FFD700&labelColor=272822)](https://leetcode.com/u/anurag-bg/) &nbsp;[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=plastic&logo=google&logoColor=EA4335&labelColor=FFFFFF)](https://me.developers.google.com/u/anuragbg) [![Credly](https://img.shields.io/badge/Credly%20Badges-FF6B00?style=plastic&logo=credly&logoColor=FF6B00&labelColor=FFFFFF)](https://www.credly.com/users/anurag-bg)
 
 ## 💻 Tech Stack
 
