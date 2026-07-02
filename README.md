@@ -19,7 +19,7 @@
 - [v2026.6.8](https://github.com/openclaw/openclaw/releases/tag/v2026.6.8) announcement · [PR #91059](https://github.com/openclaw/openclaw/pull/91059)
 - [v2026.5.3](https://github.com/openclaw/openclaw/releases/tag/v2026.5.3) announcement · [PR #76693](https://github.com/openclaw/openclaw/pull/76693)
 
-## 🧩 Developer Profiles
+## 🧩 Developer Profiles & Badges
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=FFD700&labelColor=272822)](https://leetcode.com/u/anurag-bg/) &nbsp;[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=plastic&logo=google&logoColor=EA4335&labelColor=FFFFFF)](https://me.developers.google.com/u/anuragbg) &nbsp;[![Credly](https://img.shields.io/badge/Credly%20Badges-FF6B00?style=plastic&logo=credly&logoColor=FF6B00&labelColor=FFFFFF)](https://www.credly.com/users/anurag-bg)
 
