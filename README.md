@@ -4,8 +4,8 @@
 
 <p>
   <div><b>Software Engineer · 5+ years of experience · MSCS @ Northeastern (Khoury College), Boston, MA.</b></div>
-  <div><i>Full-stack · Cloud · Gen AI · Distributed systems</i></div>
-  <div>Interested in building systems that ship. On a personal level I care about the path from a concept to reality. Driven by curiosity, scale, and work with real-world impact.</div>
+  <div><i>Full-stack · Cloud · Gen AI · Distributed systems · Agentic AI</i></div>
+  <div>Interested in building features & systems that ship. On a personal level I value the path from an idea to reality. Driven by curiosity, scale, and work with real-world impact.</div>
 </p>
 <p>
   Open to connecting, Cheers! 🌟
