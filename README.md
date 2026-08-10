@@ -23,9 +23,8 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=FFD700&labelColor=272822)](https://leetcode.com/u/anurag-bg/) &nbsp;[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=plastic&logo=google&logoColor=EA4335&labelColor=FFFFFF)](https://me.developers.google.com/u/anuragbg) &nbsp;[![Credly](https://img.shields.io/badge/Credly%20Badges-FF6B00?style=plastic&logo=credly&logoColor=FF6B00&labelColor=FFFFFF)](https://www.credly.com/users/anurag-bg/badges) 
 <!--  &nbsp;[![AWS Certifications](https://img.shields.io/badge/AWS-Certifications-232F3E?style=plastic&labelColor=FFFFFF)](https://skillsprofile.skillbuilder.aws/user/anurag-bg/certification-badges) -->
-- ☁️ **AWS Academy Cloud Foundations** · [Skill Badge](https://skillsprofile.skillbuilder.aws/user/anurag-bg-neu)
-- ☁️ **AWS Academy Cloud Architect** · In progress
-- 🤖 **Google Cloud Gen-AI Exchange Program** · [Certificate](https://certificate.hack2skill.com/legacy/2025H2S04GENAI-A00538)
+- ☁️ **AWS Academy Cloud** · [Skill Badges](https://skillsprofile.skillbuilder.aws/user/anurag-bg-neu)
+- 🤖 **Google Cloud Gen-AI** · [Certificate](https://certificate.hack2skill.com/legacy/2025H2S04GENAI-A00538)
 
 ## 📬 Connect
 
