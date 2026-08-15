@@ -3,7 +3,7 @@
 [![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?style=plastic&labelColor=FFFFFF)](https://github.com/openclaw/openclaw)
 
 <p>
-  <div><b>Software Engineer · 5+ years of experience · MSCS @ Northeastern (Khoury College), Boston, MA.</b></div>
+  <div><b>Software Engineer · 5+ years industry experience · MSCS @ Northeastern (Khoury College), Boston, MA.</b></div>
   <div><i>C++ · Python · Full Stack · Distributed systems · AWS · GenAI · Agentic AI</i></div>
   <div>Interested in building features & systems that ship. I value the path from an idea to reality. Driven by curiosity, scale, and work with real-world impact.</div>
 </p>
