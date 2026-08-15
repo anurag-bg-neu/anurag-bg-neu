@@ -8,7 +8,7 @@
   <div>Interested in building features & systems that ship. I value the path from an idea to reality. Driven by curiosity, scale, and work with real-world impact.</div>
 </p>
 <p>
-  Open to connecting, Cheers!
+  Open to connecting, Cheers! 🌟
 </p>
 
 ## Recent Contributions
