@@ -3,9 +3,9 @@
 [![OpenClaw Contributor](https://img.shields.io/badge/OpenClaw-Contributor-C0392B?style=plastic&labelColor=FFFFFF)](https://github.com/openclaw/openclaw)
 
 <p>
-  <div><b>Software Engineer · 5+ years industry experience · MSCS @ Northeastern (Khoury College), Boston, MA.</b></div>
+  <div><b>Software Engineer · 5+ years industry experience · MSCS @ Northeastern (Khoury College), Boston, MA</b></div>
   <div><i>C++ · Python · Full Stack · Distributed systems · AWS · GenAI · Agentic AI</i></div>
-  <div>Interested in building features & systems that ship. I value the path from an idea to reality. Driven by curiosity, scale, and work with real-world impact.</div>
+  <div>Interested in building features & systems that ship. I value the path from an idea to reality. Driven by curiosity, scale, and work with real-world impact</div>
 </p>
 <p>
   Open to connecting, Cheers! 🌟
@@ -13,7 +13,7 @@
 
 ## Recent Contributions
 
-🦞 [OpenClaw.ai](https://openclaw.ai) — Shipped security hardenings 🔐 (merged in production releases):
+🦞 [OpenClaw.ai](https://openclaw.ai) - Shipped security hardenings 🔐 (merged in production releases):
 - [v2026.6.9](https://github.com/openclaw/openclaw/releases/tag/v2026.6.9) announcement · [PR #90893](https://github.com/openclaw/openclaw/pull/90893)
 - [v2026.6.9](https://github.com/openclaw/openclaw/releases/tag/v2026.6.9) announcement · [PR #90571](https://github.com/openclaw/openclaw/pull/90571)
 - [v2026.6.8](https://github.com/openclaw/openclaw/releases/tag/v2026.6.8) announcement · [PR #91059](https://github.com/openclaw/openclaw/pull/91059)
