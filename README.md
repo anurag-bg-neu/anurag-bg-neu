@@ -29,7 +29,7 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anurag--bg-0A66C2?style=plastic&labelColor=FFFFFF)](https://www.linkedin.com/in/anurag-bg) &nbsp;[![Email](https://img.shields.io/badge/Email-FF3D00?style=plastic&logo=gmail&logoColor=EA4335&labelColor=FFFFFF)](mailto:anurag9596eng@gmail.com) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=plastic&logo=googlechrome&logoColor=white)](https://anurag-bg.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anurag--bg-0A66C2?style=plastic&labelColor=FFFFFF)](https://www.linkedin.com/in/anurag-bg) &nbsp;[![Email](https://img.shields.io/badge/Email-FF3D00?style=plastic&logo=gmail&logoColor=EA4335&labelColor=FFFFFF)](mailto:anurag9596eng@gmail.com) &nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=plastic&logo=googlechrome&logoColor=white)](https://anurag-bg.com)
 
 
 ## Tech Stack
